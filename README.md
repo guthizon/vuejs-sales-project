@@ -29,3 +29,5 @@ Insert into collection 'users' a new user admin to access the system:
     "cpfCnpj" : 1,
     "__v" : 0
 }
+
+The password hash is: pass@12345
